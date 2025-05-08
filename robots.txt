@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /about.html
+Sitemap: https://cafeventro.com/sitemap.xml
